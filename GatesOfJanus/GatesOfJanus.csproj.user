@@ -9,5 +9,6 @@
     <WebStackScaffolding_DbContextTypeFullName>GatesOfJanus.Models.FeatureContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <ShowAllFiles>false</ShowAllFiles>
+    <NameOfLastUsedPublishProfile>GatesOfJanus - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
