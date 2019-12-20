@@ -136,3 +136,4 @@ C:\Projects\GatesOfJanus\GatesOfJanus\obj\Debug\netcoreapp3.1\GatesOfJanus.Razor
 C:\Projects\GatesOfJanus\GatesOfJanus\obj\Debug\netcoreapp3.1\GatesOfJanus.csproj.CopyComplete
 C:\Projects\GatesOfJanus\GatesOfJanus\obj\Debug\netcoreapp3.1\GatesOfJanus.dll
 C:\Projects\GatesOfJanus\GatesOfJanus\obj\Debug\netcoreapp3.1\GatesOfJanus.pdb
+C:\Projects\GatesOfJanus\GatesOfJanus\obj\Debug\netcoreapp3.1\GatesOfJanus.csprojAssemblyReference.cache
