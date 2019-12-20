@@ -4,27 +4,13 @@
         <name>GatesOfJanus</name>
     </assembly>
     <members>
-        <member name="M:GatesOfJanus.Controllers.FeaturesController.GetFeature">
+        <member name="M:GatesOfJanus.Controllers.FeaturesController.GetFeature(System.Int64)">
             <summary>
-            Gets all features
-            GET: api/Features
+            Gets a feature by id
             </summary>
-            <returns></returns>
-            <response code="201">Returns the newly created item</response>
-            <response code="400">If the item is null</response>
-        </member>
-        <member name="M:GatesOfJanus.Controllers.FeaturesController.PostFeature(GatesOfJanus.Models.Feature)">
-            <summary>
-            Creates a Feature Flag
-            </summary>
-            <remarks>
-            Sample request: 
-            
-            
-            </remarks>
-            <returns>A newly created feature</returns>
-            <response code="201">Returns the newly created item</response>
-            <response code="400">If the item is null</response>
+            <returns>The feature by the supplied id</returns>
+            <response code="200">The feature for the supplied id</response>
+            <response code="400">If the feature was not found</response>
         </member>
     </members>
 </doc>
